@@ -1,0 +1,14 @@
+QUESTION 1:
+Answer: The nine cells in the grid make a symmetric shape
+
+QUESTION 2:
+Answer: 2, Expanding the sizes from left to right
+
+QUESTION 3: 
+Answer: 3, base on the 2 rows the shapes were combined from left to right
+
+QUESTION 4:
+Answer: 4, The pattern of the square moves from right to left while changing its color, while the circle shape moves from left to right and the line moves upwardly
+
+QUESTION 5:
+Answer: 3, The pattern of the square is from left to right while moving upwards. While the circle's pattern of movement is from bottom to top on the same side, combining the 2 shapes in one position
